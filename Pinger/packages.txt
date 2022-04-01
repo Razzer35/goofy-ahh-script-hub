@@ -1,8 +1,0 @@
-sys
-getopt
-socket
-threading
-time
-numpy
-struct
-os
